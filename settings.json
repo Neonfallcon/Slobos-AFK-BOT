@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "24for7.aternos.me:44633",
+    "ip": "24for7.aternos.me",
     "port": 44633,
     "version": "1.21.11"
   },
